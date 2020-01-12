@@ -1,0 +1,37 @@
+Provisioning is basically how you are implementing your service
+What components are you usig to build a provisioning model
+
+Why do you need provisioning?
+
+The basic rule of doing business backup is if losing that data will interfere with your business back it up.
+
+It is estimated that 60% of the companies that losses data shuts within 6 months.
+
+Basically we are using two different types of backup service
+
+Local Data Backup Service
+
+We are using Local Area Network to store data in our off-site servers. We have setup a server and we transfer our data from computers
+to server using LAN storage. We are also implemeting RAID mirroring techniques to replicate the data in two or more disks.
+The controller can be software or a hardware add-in card.The customers details and business related data are stored locally
+
+Remote Cloud Disaster Recovery Site
+All the data related to customers instance are stored int the cloud 
+
+Dashboard
+There are hundreds of moving parts in your business that impact your overall performance.
+
+A business dashboard summarizes these events with easy-to-understand, real-time data visuals. For cars, you can immediately see how fast you are traveling, how much fuel you have in your tank and more. It even provides a “Check Engine” symbol as a warning when there’s something wrong with the engine.
+
+Dashboard provides real time results by extracting value from all the data you collect
+
+Operational Dashboards – This is the most common dashboard type, with metrics updating in real-time showing data related to daily operations.
+
+Analytical Dashboards – Use data from the past to identify trends that can influence future decision-making.
+ 
+Strategic Dashboards – Track performance in relation to your key performance.
+
+
+
+ 
+
